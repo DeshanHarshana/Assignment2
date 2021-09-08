@@ -8,3 +8,6 @@
     remote: Compressing objects: 100% (3/3), done.
     remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
     Receiving objects: 100% (6/6), done.
+    
+ ### 3. Add the text file that should have the answer of Q1.
+         git add Q1.txt
