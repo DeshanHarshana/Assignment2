@@ -44,4 +44,11 @@
             new file:   Q1.txt
             new file:   anotherfile.txt
 
+### 10. make the commit with git commit.
+### 11. Write a meaningful commit message (e.g. "Answers question 1").
 
+    $ git commit -am "Answer Question"
+    [anotherBranch 609a6db] Answer Question
+     2 files changed, 7 insertions(+)
+     create mode 100644 Q1.txt
+     create mode 100644 anotherfile.txt
