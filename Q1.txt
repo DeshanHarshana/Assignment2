@@ -1,0 +1,6 @@
+Q1.
+1. Create a repository for your Team Software Project
+2. Invite your teammates
+3. Paste your link in below question
+
+	https://github.com/DeshanHarshana/RDGIT.git
