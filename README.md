@@ -11,3 +11,7 @@
     
  ### 3. Add the text file that should have the answer of Q1.
          git add Q1.txt
+         
+ ### 4. Add another file to do the following
+         touch anotherfile.txt
+
